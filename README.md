@@ -1,11 +1,3 @@
-
-
-
-Here is a comprehensive `README.md` template for your GitHub repository. It synthesizes all the provided code and PDF documentation into a structured, professional format.
-
-***
-
-```markdown
 # OpenArm: Gesture-Controlled Robotic Arm 🤖🖐️
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
