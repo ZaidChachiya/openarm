@@ -139,13 +139,11 @@ Type commands like `S 90 90 90 90` to set servos, or `MD 1` / `MD 2` to test the
 
 ---
 
-## 🎥 Video Demonstration
+## 🎥 Output Video Demonstration
 
-*(Replace the image and link below with your actual YouTube or GitHub hosted video)*
+You can view the output videos demonstrating the OpenArm in action here:
 
-[![OpenArm Demonstration](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)  
-*Click the image above to watch the OpenArm in action!*
-
+[**View Demo Video Folder on Google Drive**](https://drive.google.com/drive/folders/1fj4Zdd7q7hfHtoaU4wSkX2pFJES7Fx8f?usp=sharing)
 ---
 
 ## ⚠️ Safety & Constraints
